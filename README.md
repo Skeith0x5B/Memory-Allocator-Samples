@@ -5,7 +5,7 @@ A couple of custom memory allocators I wrote for my first game engine project, p
 Platforms
 ---------
 Compiled and tested on:  - W7 and VS2010 (warning level 4 & treat warnings as errors).
-			 - Ubuntu 12.04.
+            - Ubuntu 12.04.
 
 ------------
 MSC_Common.h
